@@ -1,2 +1,2 @@
-# Slime-Invaders
-Download Repo
+# Slime Invaders
+Download Repo for my little game : Slime Invaders
