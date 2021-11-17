@@ -10,6 +10,9 @@ N'hésite pas à donner ton avis sur le jeu par e-mail : seremptos@outlook.fr
 Je te souhaite un bon jeu malgré le peu de contenu et j'espère que ça
 te montrera via ce jeu ce que l'on peut faire avec pygame sans trop de difficultés ! :)
 
+Tu peux télécharger le jeu juste ici : [Télécharger le jeu](https://github.com/Seremptos/Slime-Invaders/releases/latest) 
+
+
 ## Déplacement :
 
 Pour te déplacer, tu peux utiliser les flèches directionnelles droite et gauche,
