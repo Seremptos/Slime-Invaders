@@ -10,7 +10,8 @@ N'hésite pas à donner ton avis sur le jeu par e-mail : seremptos@outlook.fr
 Je te souhaite un bon jeu malgré le peu de contenu et j'espère que ça
 te montrera via ce jeu ce que l'on peut faire avec pygame sans trop de difficultés ! :)
 
-Tu peux télécharger le jeu juste ici : [Télécharger le jeu](https://github.com/Seremptos/Slime-Invaders/releases/latest/download/Slime.Invaders.exe) 
+Tu peux télécharger le jeu juste ici : [Télécharger le jeu](https://github.com/Seremptos/Slime-Invaders/releases/latest/download/Slime.Invaders.exe)
+Le jeu n'est disponible que sous format exécutable pour Windows (.exe) mais il peut être possible de l'émuler sous MacOS ou Linux via émulateur :)
 
 
 ## Déplacement :
